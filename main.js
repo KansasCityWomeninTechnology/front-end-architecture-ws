@@ -90,10 +90,10 @@
 		// Poptrox.
 			$window.on('load', function() {
 
-				var $thumbs = $('.thumbnails');
+				var $popups = $('.video-popup');
 
-				if ($thumbs.length > 0)
-					$thumbs.poptrox({
+				if ($popups.length > 0)
+					$popups.poptrox({
 						onPopupClose: function() { $body.removeClass('is-covered'); },
 						onPopupOpen: function() { $body.addClass('is-covered'); },
 						baseZIndex: 10001,
