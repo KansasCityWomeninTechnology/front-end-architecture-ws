@@ -1,0 +1,15 @@
+{
+    "name": "front-end-architecture-ws",
+    "version": "0.0.0",
+    "description": "Front-end architecture",
+    "main": "index.html",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/KansasCityWomeninTechnology/front-end-architecture-ws.git"
+    },
+    "author": "Coding & Cocktails",
+    "license": "CC-BY-SA-4.0",
+    "bugs": {
+      "url": "https://github.com/KansasCityWomeninTechnology/front-end-architecture-ws/issues"
+    }
+  }
